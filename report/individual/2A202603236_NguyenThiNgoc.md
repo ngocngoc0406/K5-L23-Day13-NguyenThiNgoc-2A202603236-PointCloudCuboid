@@ -1,3 +1,5 @@
+# Báo cáo cá nhân — 2A202603236 — Nguyễn Thị Ngọc
+
 ## 1. Kết luận trước
 
 Task `D13-2A202603236` gồm 10 frame: `s01f36`, `s01f59`, `s02f10`, `s02f32`, `s03f10`, `s03f41`, `s04f07`, `s04f52`, `s05f03`, `s05f41`. Tôi thao tác trên Windows 11, Chrome và CVAT 2.81.0. Bản xuất Bảng A hiện có 55 cuboid và đã được đối chiếu với phiếu tự kiểm. `s01f36` ít nhãn nhất (4); chưa đủ dữ liệu để kết luận frame này ít vật hay còn bỏ sót vật.
